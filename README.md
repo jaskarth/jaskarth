@@ -12,4 +12,4 @@ Some other misc stuff:
 * I have a [talk](https://www.youtube.com/watch?v=EI7CyaINVB8) on YouTube about performance optimization within world generation in Minecraft, as well as in depth Java JIT optimization.
 * I work part time at [Origin Realms](https://originrealms.com/) as an engineer for the Minecraft worldgen framework used to create interesting and picturesque worlds to explore.
 
-For any inquiries please contact `supercoder7979 [at] gmail (dot) com`.
+For any inquiries please contact `jaskarth4 [at] gmail (dot) com`.
