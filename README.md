@@ -1,5 +1,5 @@
 ## Hello!
-I'm Jasmine, but you may be more familiar with my pen name. I do a lot of work with Java, compilers, and performance engineering, as well as Minecraft modding on the side. Here's some information about me!
+I'm Jasmine! I do a lot of work with Java, compilers, performance, reverse engineering, as well as Minecraft modding on the side. Here's some information about me!
 
 Notable projects I've contributed to include:
 * [Quiltflower](https://github.com/QuiltMC/quiltflower), a cutting edge Java decompiler that aims to be as accurate and readable as possible. I'm the lead developer and helped modernize the codebase, implement new features, and squash hundreds of bugs.
