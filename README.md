@@ -5,7 +5,7 @@ Notable projects I've contributed to include:
 * [Vineflower](https://github.com/Vineflower/vineflower), a cutting edge Java decompiler that aims to be as accurate and readable as possible. I'm the lead developer and helped modernize the codebase, implement new features, and squash hundreds of bugs.
 * [Satisfactory Mod Loader](https://github.com/satisfactorymodding/SatisfactoryModLoader), a modding framework and utility for the video game Satisfactory. I was the original author and designer for the mod loader, and helped foster a helpful community that grew around it.
 * [Ecotones](https://github.com/SuperCoder7979/ecotones), which is a Minecraft mod with dynamic biome and terrain generation. It creates interesting landscapes that always feel different, even when in the same biome.
-* [JavaCodeGen](https://github.com/Kroppeb/JavaCodeGen), a fuzzer for the Java language used to find problems with Quiltflower.
+* [JavaCodeGen](https://github.com/Kroppeb/JavaCodeGen), a fuzzer for the Java language used to find problems with Vineflower.
 * [Tropicraft](https://github.com/Tropicraft/Tropicraft) and [Love Tropics Minigames](https://github.com/LoveTropics/LTMinigames), core parts of the [Love Tropics](https://lovetropics.org/) charity event that runs for a weekend within Minecraft to raise money and awareness for climate change related charities. I helped design and implement new features within the two projects.
 
 Some other misc stuff:
