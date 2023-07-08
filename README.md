@@ -2,7 +2,7 @@
 I'm Jasmine! I do a lot of work with Java, compilers, performance, reverse engineering, as well as Minecraft modding on the side. Here's some information about me!
 
 Notable projects I've contributed to include:
-* [Quiltflower](https://github.com/QuiltMC/quiltflower), a cutting edge Java decompiler that aims to be as accurate and readable as possible. I'm the lead developer and helped modernize the codebase, implement new features, and squash hundreds of bugs.
+* [Vineflower](https://github.com/Vineflower/vineflower), a cutting edge Java decompiler that aims to be as accurate and readable as possible. I'm the lead developer and helped modernize the codebase, implement new features, and squash hundreds of bugs.
 * [Satisfactory Mod Loader](https://github.com/satisfactorymodding/SatisfactoryModLoader), a modding framework and utility for the video game Satisfactory. I was the original author and designer for the mod loader, and helped foster a helpful community that grew around it.
 * [Ecotones](https://github.com/SuperCoder7979/ecotones), which is a Minecraft mod with dynamic biome and terrain generation. It creates interesting landscapes that always feel different, even when in the same biome.
 * [JavaCodeGen](https://github.com/Kroppeb/JavaCodeGen), a fuzzer for the Java language used to find problems with Quiltflower.
